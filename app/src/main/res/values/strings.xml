@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Click</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click">CLICK!</string>
+    <string name="description">Click the tabs on the screen before the time runs out. If you press anywhere else, you will lose points!</string>
+    <string name="image">image</string>
+    <string name="play">play</string>
+    <string name="click1">Click here!</string>
+    <string name="timer">00:00</string>
+    <string name="count">0</string>
+    <string name="text">Final Score</string>
+    <string name="gamble">Gamble your points</string>
+    <string name="playagain">play again</string>
+    <string name="return1">Return to title page</string>
+</resources>
